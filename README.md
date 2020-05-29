@@ -1,5 +1,16 @@
-# ITS
-Dies ist ein Repository für alle Kommenden Übungen in ITS
+# ITS-Uebung 3
 
-Folgende Übungen sind vorhanden:
-Übung 3 - Aufgabe 1
+Hier wurde bisher die Aufgabe 1 gelöst.
+
+Folgendes Vigenére-Chiffrat wurde ohne Schlüssel entschlüsselt. 
+
+ 
+kjegimoeugcmoemgcbkxmojlovpgkbkjqksmtactxmmvqycmoectupgkbk
+jqkcqkseovmoemslbzvzoyzkbqtumxcqkspgkmoemykimvacftrkmyzmoe
+lkeegclaelllbzvznftkelgiqkwaovircmyzmhvvnvzhvqaelygzgtprzm
+hvsoelkiqiyeoctnzvglaoelkeegclyvqjrclvcxvznlbbfzjvucftlnmt
+emxymxvqtbwsdbyfnxzaykmxvciyircmszbnrczlvjyigimxmmxjbkctzj
+qiywlkihvzgeakzvkizglpkeazzusvctuitjmoemtjknnixqmtwckjakee
+kilkkqniqnemxbmtemtuqkxmojtkzvyrozvvrzmhvuakbkieoieuctkect
+jaiywtzvgtpzemndmtzpxbwkevzfptvauiokwwxkokymtuisvkqvzzvlov
+irkmaelsrknkmyzknxmziwykiawlkeekx
