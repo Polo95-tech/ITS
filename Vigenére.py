@@ -114,7 +114,7 @@ def schreib_in_datei(text,key,laenge,werte):
         index += l
         if index > int(laenge*2/3):
             index = int(laenge*2/3)
-    datei = open('F:/Studium/FH-SWF/6. Semster/IT_Sicherheit/Übung/Übung3/loesung.txt','w')
+    datei = open('F:/Studium/FH-SWF/6. Semster/IT_Sicherheit/Übung/Übung3/loesung_aufgabe1.txt','w')
     datei.write("Textlänge: "+str(laenge))
     datei.write("\nKonistenzindex lautet: "+ str(format(werte[0]*100,'.2f'))+"%")
     datei.write("\nSchlüssellänge lautet: "+ str(format(werte[1],'.0f')))
